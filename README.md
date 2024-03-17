@@ -1,3 +1,3 @@
-# ps3
-CSIS-225, Spring 2024, Problem Set 3
+# ps4
+CSIS-225, Spring 2024, Problem Set 4
 # Name(s)
